@@ -4,7 +4,7 @@ A disc display that shows the percentage
 
 ![Screenshot](./docs/capture.png)
 
-
+### 🕹️ Demo: https://efrensanchez.github.io/disc-display/
 
 ## Getting Started
 
